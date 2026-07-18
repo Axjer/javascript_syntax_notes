@@ -15,7 +15,7 @@ console.log(typeof age2); //可使用typeof來檢查型別狀態，此時為numb
 
 let x = "0";
 let y = "0";
-let z;
+let z = "0";
 
 x = Number(x);
 y = String(y);
