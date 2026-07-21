@@ -2,12 +2,12 @@
 
 let a = 10;
 
-a = a + 2; //Output: 10 + 2 = 12
-a = a - 2; //Output: 10 - 2 = 8
-a = a * 2; //Output: 10 * 2 = 20
-a = a ** 2; //Output: 10^2 = 10 * 10 = 100（10的2次方）
-a = a / 2; //Output: 10 / 2 = 5
-a = a % 2; //Output: 10 % 2 = 5...0（取餘數）
+a = a + 2; // 12
+a = a - 2; // 8
+a = a * 2; // 20
+a = a ** 2; // 10^2 = 10 * 10 = 100（10的2次方）
+a = a / 2; // 5
+a = a % 2; // 10 % 2 = 5...0（取餘數）
 
 // 縮寫
 
@@ -31,10 +31,10 @@ console.log(a);
 */
 
 let result1 = 2 + 3 * 4 + 5 ** 2;
-console.log(result1); //25 + 12 + 2 = 39
+console.log(result1); // 25 + 12 + 2 = 39
 
 let result2 = (11 % 5) + 9 / 3 + (4 + 5);
-console.log(result2); //9 + 3 + 1 = 13
+console.log(result2); // 9 + 3 + 1 = 13
 
 let result3 = 4 / 2 ** (2 + 3);
-console.log(result3); //2^5 = 32, 4 / 32 = 1 / 8 = 0.125
+console.log(result3); // 2^5 = 32, 4 / 32 = 1 / 8 = 0.125
