@@ -4,13 +4,13 @@
 
 let x;
 x = 100;
-console.log(x); //100
+console.log(x); // 100
 
 let y = 200;
-console.log(y); //200
+console.log(y); // 200
 
 let name = "Qiu";
-console.log(`Your name is ${name}`); //Your name is Qiu
+console.log(`Your name is ${name}`); // Your name is Qiu
 
 let isStudent = true;
-console.log(`Enrolled: ${isStudent}`); //Enrolled: true
+console.log(`Enrolled: ${isStudent}`); // Enrolled: true
